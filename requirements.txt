@@ -1,0 +1,6 @@
+python-docx
+pillow
+streamlit
+matplotlib
+openpyxl
+scikit-learn
